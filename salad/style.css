@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.Main{
+    background-color: aquamarine;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.main hr{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#vegetableSaladImage{
+    padding-bottom: 20px;
+
+}
+#benefits{
+    margin-bottom: 20px;
+}
+#benefitsParagraph{
+    margin-bottom: 20px;
+}
+#steps{
+    margin-bottom: 20px;
+}
